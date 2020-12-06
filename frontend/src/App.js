@@ -26,7 +26,7 @@ function App() {
       <div className="grid-container">
         <header className="header">
           <div className="brand">
-            <Link to="/">amazona</Link>
+            <Link to="/">DAS BISTRO WINE BAR</Link>
           </div>
           <div className="header-links">
             <Link to="/cart">Cart</Link>
